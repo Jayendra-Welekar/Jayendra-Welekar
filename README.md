@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jayendra-Welekar
-- 👀 I’m interested in competitive programing and android development
+- 👀 I’m interested in competitive programing and full stack development
 - 🌱 I’m currently learning android development and practicing competitve coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jayendrawelekar03@gmail.com
